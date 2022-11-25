@@ -1,0 +1,23 @@
+*{
+    outline: 0;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(teste.png);
+    background-size: 100%;
+}
+
+p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10rem;
+    font-size: 4rem;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(1, 148, 148);
+}
